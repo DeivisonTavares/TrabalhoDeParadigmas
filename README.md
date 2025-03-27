@@ -1,9 +1,4 @@
-# **Sistema de Gerenciamento de Usuários (Paradigmas de Linguagens de Programação)** 
-
-🛠 Desenvolvido para a disciplina de Paradigmas de Linguagens de Programação
-📌 Universidade [Nome da Universidade]
-✏️ Prof. [Nome do Professor]
-📅 [Ano/Semestre]
+# **Sistema de Gerenciamento de Usuários - Paradigmas de Linguagens de Programação -** 
 
 ### 📌 **Equipe**  
 - [Deivison Ryan Brito Tavares]  
